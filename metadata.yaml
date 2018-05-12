@@ -1,0 +1,44 @@
+_repo: The-Missing-FormulaMadge-Sterling-Series--1_40033
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40033-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Wirt, Mildred A. (Mildred Augustine)
+    aliases:
+    - Benson, Millie
+    - Augustine, Mildred
+    - Wirt, Ann
+    - Benson, Mildred Wirt
+    - Wirt, Mildred Augustine
+    birthdate: 1905
+    deathdate: 2002
+    gutenberg_agent_id: '37000'
+    url: http://www.gutenberg.org/2009/agents/37000
+    wikipedia:
+    - http://www.gutenberg.org/browse/authors/c#a36376
+    - http://en.wikipedia.org/wiki/Mildred_Benson
+description: ''
+gutenberg_issued: '2012-06-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40033'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Thieves -- Juvenile fiction'
+- !lcsh 'Women detectives -- Juvenile fiction'
+- !lcsh 'Mystery and detective stories'
+- !lcsh 'Sterling, Madge (Fictitious character) -- Juvenile fiction'
+- !lcsh 'Vacations -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Scientists -- Juvenile fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'Canada -- Juvenile fiction'
+title: 'The Missing Formula
+
+  Madge Sterling Series, #1'
+url: http://www.gutenberg.org/ebooks/40033
